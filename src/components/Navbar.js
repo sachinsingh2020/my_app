@@ -15,11 +15,12 @@ export default function Navbar(props) {
           <i className="fas fa-bars"></i>
         </button>
 
+        <a className="navbar-brand mt-2 mt-lg-0 fw-bold" href="#">{props.title}</a>
         {/* <!-- Collapsible wrapper --> */}
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           {/* <!-- Navbar brand --> */}
           {/* <Link className="navbar-brand mt-2 mt-lg-0 fw-bold" to="/">{props.title}</Link> */}
-          <a className="navbar-brand mt-2 mt-lg-0 fw-bold" href="#">{props.title}</a>
+
           {/* <!-- Left links --> */}
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
