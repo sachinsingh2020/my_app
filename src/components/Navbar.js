@@ -13,7 +13,7 @@ export default function Navbar(props) {
           <i className="fas fa-bars"></i>
         </button>
 
-        <a className="navbar-brand mt-2 mt-lg-0 fw-bold" href="#">{props.title}</a>
+        <a className="navbar-brand mt-2 mt-lg-0 fw-bold" href="/">{props.title}</a>
    
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
       
@@ -22,8 +22,7 @@ export default function Navbar(props) {
        
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-           
-              <a className="nav-link active" href="#">Home</a>
+              <a className="nav-link" href="/">Home</a>
             </li>
            
           </ul>
