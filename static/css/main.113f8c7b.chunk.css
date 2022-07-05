@@ -1,2 +1,23 @@
-.blank{color:red}.form-check{display:inline-block;white-space:nowrap;padding-top:10px}.nav{margin:auto}
+.blank{color:red}
+.form-check{
+  display:inline-block;
+  white-space:nowrap;
+  padding-top:10px}
+.nav
+{margin:auto}
+
+@media (max-width: 575px) {
+  .form-check {
+    margin-left: 25px;
+  }
+
+  fg
+  main {
+    text-align: center;
+  }
+
+  button {
+    margin: 0 20px;
+  }
+}
 /*# sourceMappingURL=main.113f8c7b.chunk.css.map */
