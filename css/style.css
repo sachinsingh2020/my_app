@@ -1,0 +1,281 @@
+.nav-link,
+.navbar-brand {
+    font-weight: 400;
+}
+
+.nav-link .fa-solid {
+    margin: 0 10px;
+}
+
+.dropdown-item {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+}
+
+.dropdown-item:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.bg-teal {
+    background-color: #0c6b62 !important;
+}
+
+.text-teal {
+    color: #0c6b62 !important;
+}
+
+.btn-grad-1 {
+    background-image: linear-gradient(to right, #1A2980 0%, #26D0CE 51%, #1A2980 100%)
+}
+
+.btn-grad-1 {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-1:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.btn-grad-2 {
+    background-image: linear-gradient(to right, #134E5E 0%, #71B280 51%, #134E5E 100%)
+}
+
+.btn-grad-2 {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-2:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.btn-grad-3 {
+    background-image: linear-gradient(to right, #FF8008 0%, #FFC837 51%, #FF8008 100%)
+}
+
+.btn-grad-3 {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-3:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.monkey-text {
+    font-weight: 400 !important;
+}
+
+.bg-grad-purple {
+    background-image: linear-gradient(109.6deg, rgba(118, 12, 99, 1) 11.2%, rgba(71, 11, 75, 1) 98.6%) !important;
+}
+
+
+
+.btn-grad-purple {
+    background-image: linear-gradient(to right, #ff0084 0%, #33001b 51%, #ff0084 100%)
+}
+
+.btn-grad-purple {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-purple:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.btn-grad-new-purple {
+    background-image: linear-gradient(to right, #4776E6 0%, #8E54E9 51%, #4776E6 100%)
+}
+
+.btn-grad-new-purple {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-new-purple:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.btn-grad-reddish {
+    background-image: linear-gradient(to right, #7b4397 0%, #dc2430 51%, #7b4397 100%)
+}
+
+
+
+.btn-grad-reddish {
+    background-image: linear-gradient(to right, #cb2d3e 0%, #ef473a 51%, #cb2d3e 100%)
+}
+
+.btn-grad-reddish {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-reddish:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+background-image: linear-gradient(to right, #4b6cb7 0%, #182848 51%, #4b6cb7 100%)
+}
+
+.btn-grad-dark-blue {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad-dark-blue:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.bg-grad-skyblue {
+    background-image: linear-gradient(68.4deg, rgba(99, 251, 215, 1) -0.4%, rgba(5, 222, 250, 1) 100.2%);
+}
+
+.bg-grad-green {
+    background-image: linear-gradient(117deg, rgba(123, 216, 96, 1) 39.2%, rgba(255, 255, 255, 1) 156.2%);
+}
+
+.bg-grad-green-dark {
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(14, 174, 87, 1) 0%, rgba(12, 116, 117, 1) 90%);
+}
+
+.bg-grad-red {
+    background-image: radial-gradient(circle farthest-corner at 14.2% 24%, rgba(239, 61, 78, 1) 0%, rgba(239, 61, 78, 0.81) 51.8%, rgba(239, 61, 78, 0.63) 84.6%);
+}
+
+.bg-grad-orange {
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(255, 209, 67, 1) 0%, rgba(255, 145, 83, 1) 90%);
+}
+
+.bg-dark-purple {
+    background-image: radial-gradient(circle 610px at 5.2% 51.6%, rgba(5, 8, 114, 1) 0%, rgba(7, 3, 53, 1) 97.5%);
+}
+
+.text-blue-d {
+    color: #4dbdeb;
+}
+
+.card-2,
+.card-3 {
+    margin-top: 35px !important;
+}
+
+.footer-work h2 {
+    font-weight: 400;
+}
+
+.footer-work h5 {
+    font-weight: 400;
+}
+
+.bg-task-background-blue {
+    background-color: rgb(165, 212, 231);
+}
+
+.bg-task-background-green {
+    background-color: #b6e6b6;
+}
+
+.bg-task-background-orange {
+    background-color: #f7e3a8;
+}
+
+/* .main-profile-card {
+    border: 4px solid red !important;
+
+    height: 200px !important;
+} */
+
+.main-profile-card .card-body img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+}
