@@ -1,0 +1,13 @@
+.blank {
+  color: red;
+}
+
+.form-check {
+  display: inline-block;
+  white-space: nowrap;
+  padding-top: 10px;
+}
+
+.nav {
+  margin: auto;
+}
